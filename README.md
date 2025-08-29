@@ -21,7 +21,7 @@ Imagem do site que eu fiz
 <img width="944" height="450" alt="image" src="https://github.com/user-attachments/assets/acd983af-c0a3-43ba-9009-a72606b30e39" />
 -Print do Figma
 
-*Funcionalidades do Site
+*Funcionalidades do Site*
 
 Menu funcional: navegação principal simulando o site original.
 
