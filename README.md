@@ -52,3 +52,6 @@ Reprodução visual da tela principal: imagens, textos e estrutura semelhantes �
 -Experimentar testes e ajustes, entendendo que erros fazem parte do processo de aprendizado.
 
 *Apesar de ser um primeiro projeto, fiquei satisfeita com o resultado final e com tudo que aprendi ao longo do caminho.
+
+Obrigada por acessar meu github❤️😊
+----------------------------------
