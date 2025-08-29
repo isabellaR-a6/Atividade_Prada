@@ -7,6 +7,8 @@ Para isso, escolhi reproduzir a tela principal da Prada, uma referência visual 
 <img width="1898" height="799" alt="image" src="https://github.com/user-attachments/assets/9cc086d3-b417-48ba-9ebd-426fe7d48dbd" />
 -Imagem do site que eu fiz
 
+
+
 *Planejamento com Figma
 
 -Antes de começar a codificação, criei um Figma para planejar o site. Esse planejamento incluiu:
