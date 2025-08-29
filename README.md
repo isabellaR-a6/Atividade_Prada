@@ -4,6 +4,9 @@ Este foi meu primeiro projeto de site, com o objetivo de praticar habilidades de
 
 Para isso, escolhi reproduzir a tela principal da Prada, uma referência visual desafiadora que exigiu atenção a detalhes como disposição de elementos, tipografia e cores. Durante o desenvolvimento, enfrentei alguns desafios e momentos de frustração, mas a experiência me ensinou muito sobre organização de layout, HTML e CSS.
 
+<img width="1898" height="799" alt="image" src="https://github.com/user-attachments/assets/9cc086d3-b417-48ba-9ebd-426fe7d48dbd" />
+-Imagem do site que eu fiz
+
 *Planejamento com Figma
 
 -Antes de começar a codificação, criei um Figma para planejar o site. Esse planejamento incluiu:
@@ -13,6 +16,9 @@ Para isso, escolhi reproduzir a tela principal da Prada, uma referência visual 
 -Seção principal: escolha de imagens, disposição de textos e destaque de produtos.
 
 -Footer: planejamento das informações de contato, links adicionais e redes sociais.
+
+<img width="944" height="450" alt="image" src="https://github.com/user-attachments/assets/acd983af-c0a3-43ba-9009-a72606b30e39" />
+-Print do Figma
 
 *Funcionalidades do Site
 
